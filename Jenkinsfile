@@ -23,6 +23,3 @@ stages {
         }
     }
 }
-node {
-    // groovy script
-}
